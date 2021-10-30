@@ -24,6 +24,7 @@ interests:
 - Social Psychology
 - Research Methods
 - Data Analysis
+- R
 
 # Education to show in About widget
 education:
