@@ -10,7 +10,7 @@ role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Institute of Sociology and Social Psychology at University of Cologne
+- name: Institute of Sociology and Social Psychology, University of Cologne
   url: https://iss-wiso.uni-koeln.de/en/institute/professors/methods-of-empirical-social-research-prof-dr-thomas-leopold/team
 
 
