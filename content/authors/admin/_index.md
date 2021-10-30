@@ -70,7 +70,7 @@ email: ""
 highlight_name: false
 ---
 
-I am a postdoctoral researcher and lecturer at the Institute of Sociology and Social Psychology ([ISS](https://iss-wiso.uni-koeln.de/en)) at the University of Cologne. I am also research fellow for the [Crime Events in Context](https://nscr.nl/en/research-area/crime-events-in-context/) research group at the Netherlands Institute for the Study of Crime and Law Enforcement ([NSCR](https://nscr.nl/en/about-us/organisation/fellows/)) and [Crim-Ap](https://www.ehu.eus/en/web/dms/equipo) research group at the University of the Basque Country UPV/EHU.
+I am a postdoctoral researcher and lecturer at the Institute of Sociology and Social Psychology ([ISS](https://iss-wiso.uni-koeln.de/en)) at the University of Cologne. I am also a research fellow for the [Crime Events in Context](https://nscr.nl/en/research-area/crime-events-in-context/) research group at the Netherlands Institute for the Study of Crime and Law Enforcement ([NSCR](https://nscr.nl/en/about-us/organisation/fellows/)) and for the [Crim-Ap](https://www.ehu.eus/en/web/dms/equipo) research group at the University of the Basque Country UPV/EHU.
 
 My research interest relies on understanding how different social phenomenons distribute in space and time. My main focus has been the study of spatial and temporal variation of crime and its correlates. I am also interested in new methods in Social Sciences, for instance, to improve the measurement of person-environment relations in fear of crime.
 
