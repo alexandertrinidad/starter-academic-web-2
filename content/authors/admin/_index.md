@@ -10,10 +10,9 @@ role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Netherlands Institute for the Study of Crime and Law Enforcement &
-  url: https://nscr.nl/en/
-- name: University of the Basque Country UPV/EHU
-  url: https://www.ehu.eus/en/web/dms/equipo
+- name: Institute of Sociology and Social Psychology at University of Cologne
+  url: https://iss-wiso.uni-koeln.de/en/institute/professors/methods-of-empirical-social-research-prof-dr-thomas-leopold/team
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include crime patterns, fear of crime and research methods in Social Sciences.
@@ -21,7 +20,7 @@ bio: My research interests include crime patterns, fear of crime and research me
 # Interests to show in About widget
 interests:
 - Criminal Psychology
-- Environmental Criminology
+- Geography of Crime
 - Social Psychology
 - Research Methods
 - Data Analysis
@@ -71,8 +70,8 @@ email: ""
 highlight_name: false
 ---
 
-I am a postdoctoral researcher at The Netherlands Institute for the Study of Crime and Law Enforcement (NSCR) and the University of the Basque Country UPV/EHU.
+I am a postdoctoral researcher and lecturer at the Institute of Sociology and Social Psychology ([ISS](https://iss-wiso.uni-koeln.de/en)) at the University of Cologne. I am also research fellow for the [Crime Events in Context](https://nscr.nl/en/research-area/crime-events-in-context/) research group at the Netherlands Institute for the Study of Crime and Law Enforcement ([NSCR](https://nscr.nl/en/about-us/organisation/fellows/)) and [Crim-Ap](https://www.ehu.eus/en/web/dms/equipo) research group at the University of the Basque Country UPV/EHU.
 
-My research interests are mostly related to analysing how environmental factors can shape different human behaviours. For instance, in my PhD, I focused on social and contextual factors associated with juvenile delinquency. During my postdoctoral stage, I am studying how environmental factors are associated with crime patterns and how environmental variables can be related to fear of crime. 
+My research interest relies on understanding how different social phenomenons distribute in space and time. My main focus has been the study of spatial and temporal variation of crime and its correlates. I am also interested in new methods in Social Sciences, for instance, to improve the measurement of person-environment relations in fear of crime.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume_A_Trinidad.pdf" "newtab" >}}resumé{{< /staticref >}}.
