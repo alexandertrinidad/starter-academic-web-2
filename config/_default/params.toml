@@ -88,16 +88,16 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "ATrinidad@nscr.nl"
-phone = "+31 (0)20 598 5239"
+email = "atrinidad@wiso.uni-koeln.de"
+phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "NSCR, De Boelelaan 1077", city = "Amsterdam", region = "", postcode = "1081HV", country = "The Netherlands", country_code = "NL"}
+address = {street = "ISS, Universitätsstr. 24", city = "Cologne", region = "", postcode = "50931", country = "Germany", country_code = "DE"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "52.333616", longitude = "4.867425"}
+coordinates = {latitude = "50.930752775154495", longitude = "6.927211111730106"}
 
 # Directions for visitors to locate you.
 directions = ""
