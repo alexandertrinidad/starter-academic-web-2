@@ -6,9 +6,9 @@ subtitle: ''
 summary: ''
 authors:
 - Alexander Trinidad
-- L. Vozmediano
-- E. Ocáriz
-- C. San-Juan
+- Laura Vozmediano
+- Estefanía Ocáriz
+- César San-Juan
 tags:
 - '"amenities"'
 - '"journey-to-crime"'
