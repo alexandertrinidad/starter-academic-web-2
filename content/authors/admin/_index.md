@@ -59,14 +59,14 @@ social:
 - icon: GitHub
   icon_pack: fab
   link: https://github.com/alexandertrinidad
-#- icon: cv
- # icon_pack: fab
-  #link: media/resume_A_Trinidad.pdf`
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-
+# - icon: cv
+#   icon_pack: ai
+#   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -78,4 +78,4 @@ highlight_name: false
 I am a postdoctoral researcher and lecturer at the Institute of Sociology and Social Psychology ([ISS](https://iss-wiso.uni-koeln.de/en)) at the University of Cologne. Additionally, I am a research fellow at the [Crime Events in Context](https://nscr.nl/en/research-area/crime-events-in-context/) research group at the Netherlands Institute for the Study of Crime and Law Enforcement ([NSCR](https://nscr.nl/en/about-us/organisation/fellows/)), and at the [Crim-Ap](https://www.ehu.eus/en/web/dms/equipo) research group at the University of the Basque Country UPV/EHU.
 
 My research interests revolve around understanding the distribution of social phenomena across time and space. I have focused primarily on the study of spatial and temporal variations in crime and its correlates. I am also passionate about exploring new methods for understanding the perception of emotions and associated behaviors.
- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume_A_Trinidad.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume_A_Trinidad.pdf" "newtab" >}}CV{{< /staticref >}}.
