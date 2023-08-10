@@ -60,7 +60,7 @@ social:
   icon_pack: fab
   link: https://github.com/alexandertrinidad
 - icon: cv
-  icon_pack: ai
+  icon_pack: fab
   link: media/resume_A_Trinidad.pdf
 
 # Link to a PDF of your resume/CV.
