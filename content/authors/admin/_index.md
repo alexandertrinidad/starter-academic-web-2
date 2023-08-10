@@ -44,9 +44,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-# - icon: envelope
-#   icon_pack: fas
-#   link: '/#contact'
+- icon: GitHub
+  icon_pack: fab
+  link: https://github.com/alexandertrinidad
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/atrinidad_psi
@@ -56,9 +56,6 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-0762-5367
-- icon: GitHub
-  icon_pack: fab
-  link: https://github.com/alexandertrinidad
 - icon: cv
   icon_pack: fab
   link: media/resume_A_Trinidad.pdf
@@ -78,4 +75,4 @@ highlight_name: false
 I am a postdoctoral researcher and lecturer at the Institute of Sociology and Social Psychology ([ISS](https://iss-wiso.uni-koeln.de/en)) at the University of Cologne. Additionally, I am a research fellow at the [Crime Events in Context](https://nscr.nl/en/research-area/crime-events-in-context/) research group at the Netherlands Institute for the Study of Crime and Law Enforcement ([NSCR](https://nscr.nl/en/about-us/organisation/fellows/)), and at the [Crim-Ap](https://www.ehu.eus/en/web/dms/equipo) research group at the University of the Basque Country UPV/EHU.
 
 My research interests revolve around understanding the distribution of social phenomena across time and space. I have focused primarily on the study of spatial and temporal variations in crime and its correlates. I am also passionate about exploring new methods for understanding the perception of emotions and associated behaviors.
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume_A_Trinidad.pdf" "newtab" >}}CV{{< /staticref >}}.
+
