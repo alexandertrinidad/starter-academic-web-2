@@ -40,8 +40,6 @@ abstract: © The Author(s) 2023. Urban tourism is one of the fastest-growing seg
 
 publication: '*Crime and Delinquency*'
 doi: https://doi.org/10.1177/00111287231163100
-links:
-- name: PDF
-  pdf: "postprint_Marteache_Trinidad_2023.pdf"
+pdf: "pdf/postprint_Marteache_Trinidad_2023.pdf"
 
 ---
