@@ -14,7 +14,7 @@ tags:
 - '"theft"'
 - '"type of place"'
 categories: []
-date: 'OnlineFirst'
+date: 2023
 lastmod: 2023-03-16T17:04:59+01:00
 featured: false
 draft: false
@@ -40,6 +40,6 @@ abstract: © The Author(s) 2023. Urban tourism is one of the fastest-growing seg
 
 publication: '*Crime and Delinquency*'
 doi: https://doi.org/10.1177/00111287231163100
-url: "pdf/postprint_Marteache_Trinidad_2023.pdf"
+url_pdf: "pdf/postprint_Marteache_Trinidad_2023.pdf"
 
 ---
