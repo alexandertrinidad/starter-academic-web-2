@@ -16,7 +16,7 @@ tags:
 categories: []
 date: 'OnlineFirst'
 lastmod: 2023-03-16T17:04:59+01:00
-featured: true
+featured: false
 draft: false
 
 # Featured image
@@ -25,7 +25,7 @@ draft: false
 image:
   caption: ''
   focal_point: ''
-  preview_only: true
+  preview_only: false
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -40,8 +40,6 @@ abstract: © The Author(s) 2023. Urban tourism is one of the fastest-growing seg
 
 publication: '*Crime and Delinquency*'
 doi: https://doi.org/10.1177/00111287231163100
-links: 
-- names: PDF
-  url: pdf/postprint_Marteache_Trinidad_2023.pdf
+url: "pdf/postprint_Marteache_Trinidad_2023.pdf"
 
 ---
