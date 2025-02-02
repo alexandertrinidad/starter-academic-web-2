@@ -49,7 +49,7 @@ social:
 #   icon_pack: fas
 #   link: '/#contact'
 - icon: bluesky
-  icon_pack: fas
+  icon_pack: ai
   link: https://bsky.app/profile/alextrinidad.bsky.social
 - icon: google-scholar 
   icon_pack: ai
@@ -58,7 +58,7 @@ social:
   icon_pack: ai
   link: https://orcid.org/0000-0002-0762-5367
 - icon: GitHub
-  icon_pack: fas
+  icon_pack: ai
   link: https://github.com/alexandertrinidad
 
 
