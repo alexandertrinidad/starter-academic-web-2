@@ -57,8 +57,8 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-0762-5367
-- icon: GitHub
-  icon_pack: "fab"
+- icon: github
+  icon_pack: fab
   link: https://github.com/alexandertrinidad
 
 
