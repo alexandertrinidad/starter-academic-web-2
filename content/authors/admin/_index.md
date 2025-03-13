@@ -10,8 +10,8 @@ role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Institute of Sociology and Social Psychology, University of Cologne
-  # url: https://iss-wiso.uni-koeln.de/en/institute/professors/methods-of-empirical-social-research-prof-dr-thomas-leopold/team
+- name: Department of Sociology and Social Psychology, University of Cologne
+  # url: https://dss.uni-koeln.de/en/institute/professors/methods-of-empirical-social-research-prof-dr-thomas-leopold/team
 
 
 # Short bio (displayed in user profile at end of posts)
@@ -19,9 +19,8 @@ bio: My research interests include crime patterns, fear of crime and research me
 
 # Interests to show in About widget
 interests:
-- Crime Science
-- Criminal Psychology
-- Social Psychology
+
+- Social Science
 - Research Methods
 - Data Analysis
 - Open Science
@@ -76,7 +75,7 @@ email: ""
 highlight_name: false
 ---
 
-I am a postdoctoral researcher and lecturer at the Institute of Sociology and Social Psychology ([ISS](https://iss-wiso.uni-koeln.de/en)) at the University of Cologne. Additionally, I am a research fellow at the [Crime Events in Context](https://nscr.nl/en/research-area/crime-events-in-context/) research group at the Netherlands Institute for the Study of Crime and Law Enforcement ([NSCR](https://nscr.nl/en/about-us/organisation/fellows/)), and at the [Crim-Ap](https://www.ehu.eus/en/web/dms/equipo) research group at the University of the Basque Country UPV/EHU.
+I am a postdoctoral researcher and lecturer at the Department of Sociology and Social Psychology ([DSS](https://dss.uni-koeln.de/de/)) at the University of Cologne. Additionally, I am a research fellow at the [Crime Events in Context](https://nscr.nl/en/research-area/crime-events-in-context/) research group at the Netherlands Institute for the Study of Crime and Law Enforcement ([NSCR](https://nscr.nl/en/about-us/organisation/fellows/)), and at the [Crim-Ap](https://www.ehu.eus/en/web/dms/equipo) research group at the University of the Basque Country UPV/EHU.
 
 My research focuses on understanding the spatial and temporal variation of antisocial behavior, crime perceptions, and public opinion. I employ computational social science methods and research synthesis techniques to analyze complex social phenomena. Over the past few years, I have been actively learning and applying open science principles, working to enhance transparency and reproducibility in social research.
 
