@@ -41,5 +41,6 @@ abstract: © The Author(s) 2021. Research on youth delinquency has been essentia
 
 publication: '*Environment and Behavior*'
 doi: 10.1177/00139165211060521
+url_pdf: publication/trindad-2022/trinidad_2022.pdf
 
 ---
