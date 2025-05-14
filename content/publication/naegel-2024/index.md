@@ -1,21 +1,19 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Theft victimization in urban settings: comparison of
-tourist and resident case profiles'
+title: 'Open Science und Open Data in der Kriminologie – Tagungsbericht zum ersten internationalen Workshop zu transparenten Forschungspraktiken in der Kriminologie an der Universität zu Köln'
 subtitle: ''
 summary: ''
 authors:
-- Nerea Marteache
+- Christof Nägel
 - Alexander Trinidad
 tags:
-- '"tourism"'
-- '"case profiles"'
-- '"theft"'
-- '"type of place"'
+- '"open science"'
+- '"meta-science"'
+- '"criminology"'
 categories: []
-date: '2024-10-01'
-lastmod: 2023-03-16T17:04:59+01:00
+date: '2024-12-19'
+lastmod: 2024-12-19T17:04:59+01:00
 featured: false
 draft: false
 
@@ -33,13 +31,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-10-16T17:04:59+01:00'
+publishDate: '2024-12-19T17:04:59+01:00'
 publication_types:
 - '2'
-abstract: © The Author(s) 2023. Urban tourism is one of the fastest-growing segments within the tourist sector. Although the relationship between urban tourism and crime has been well documented in the literature, a focus on the specifics of tourist victimization is lacking. This study explores thefts against urban tourists using police records for the five main tourist districts in the city of Barcelona (Spain). We apply conjunctive analysis of case configurations to a large data sample (N > 300,000) to uncover victimization case profiles and the context in which crimes are committed. Comparisons to resident victimization provide valuable insight into this problem and set new avenues for future research.
+abstract: Im September 2024 fand an der Universität zu Köln der erste europäische und Präsenz-Workshop im Format einer Mini-Konferenz zum Thema „Open Science“ (OS) und „Open Data“ in der europäischen Kriminologie statt.
 
-publication: '*Crime and Delinquency*'
-doi: https://doi.org/10.1177/00111287231163100
-url_pdf: publication/marteache-2023/marteache-2023.pdf
+publication: '*Kriminologie - Das Online-Journal | Criminology - The Online Journal*'
+doi: https://doi.org/10.18716/ojs/krimoj/2024.4.7
+# url_pdf: publication/marteache-2023/marteache-2023.pdf
 
 ---
